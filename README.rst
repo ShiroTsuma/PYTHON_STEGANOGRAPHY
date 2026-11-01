@@ -2,10 +2,18 @@ Python Steganography Project
 ==================================
 
 
+Archived project
+----------------
+
+This repository preserves an early Python desktop steganography project.
+It is no longer maintained. The original source, examples and packaged executable
+remain available for reference. For current projects, visit
+https://github.com/ShiroTsuma.
+
 This Python project aims to implement steganography techniques to hide encoded messages within images. Steganography is the art and science of concealing information 
 within other non-secret data to avoid detection. In this case, we'll be hiding messages within image files.
 
-Table of Contests
+Contents
 -----------------
 - Getting Started
 - Usage
@@ -51,7 +59,7 @@ using the following commands:
 
 .. code-block:: bash
 
-   git clone https://github.com/ShiroTsuma-github/PYTHON_STEGANOGRAPHY.git
+   git clone https://github.com/ShiroTsuma/PYTHON_STEGANOGRAPHY.git
    cd PYTHON_STEGANOGRAPHY
    pip install -r requirements.txt 
 
